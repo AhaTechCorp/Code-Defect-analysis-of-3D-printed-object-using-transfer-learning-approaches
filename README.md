@@ -9,7 +9,7 @@ An ablation study was also conducted using Adaptive Moment Estimation (Adam), St
 
 <p align="center">
   <img src="https://github.com/mahsan2/AM3d/blob/main/figure/Proposedmethods3.PNG" alt="Flow diagram of the proposed transfer learning-based approaches with frozen pre-trained weights and updated layers for defect analysis">
-  <br><em>Flow diagram of the proposed transfer learning-based approaches with frozen pre-trained weights and updated layers for defect analysis</em>
+  <br><em style="color:red; font-weight:bold;">Flow diagram of the proposed transfer learning-based approaches with frozen pre-trained weights and updated layers for defect analysis</em>
 </p>
 
 ## **Citation**
