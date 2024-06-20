@@ -7,6 +7,8 @@ Additive manufacturing (AM) is rapidly gaining traction across diverse industrie
 
 An ablation study was also conducted using Adaptive Moment Estimation (Adam), Stochastic Gradient Descent (SGD), and Root Mean Square Propagation (RMSprop) optimizers. We identified that TL models such as VGG16, MobileNetV2, InceptionResNetV2, and NASNetLarge significantly outperform others, especially when optimized with Adam and RMSprop. Conversely, models like EfficientNetB0, EfficientNetB7, and EfficientNetV2M exhibited lower performance when paired with the SGD optimizer. Additionally, Local Interpretable Model-agnostic Explanations (LIME)-based approaches were used to provide explanations of the models' predictions. These findings offer substantial insights into model optimization and integration, aiming to enhance AM product quality through advanced image-based monitoring and inspection.
 
+![Flow diagram of the proposed transfer learning-based approaches with frozen pre-trained weights and updated layers for defect analysis](https://github.com/mahsan2/AM3d/blob/main/figure/Proposedmethods3.PNG)
+
 ## **Citation**
 
 If you use this dataset, please cite the following paper:
